@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{29F3E58B-483F-E888-22D3-7F8184046535}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "dragonShooter",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
